@@ -1,4 +1,4 @@
-{
+{/* ts config node json */
   "compilerOptions": {
     "target": "ES2022",
     "lib": ["ES2023"],
