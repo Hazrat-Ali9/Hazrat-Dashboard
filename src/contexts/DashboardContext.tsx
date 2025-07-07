@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
-
+// Dashboard context
 interface DashboardData {
   totalProjects: number;
   activeProjects: number;
