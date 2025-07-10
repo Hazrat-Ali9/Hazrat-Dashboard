@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
-
+// auto context
 export type UserRole = 'Software Engineer' | 'Frontend Engineer' | 'Backend Engineer' | 'Full Stack Engineer' | 'System Administrator';
 
 interface User {
