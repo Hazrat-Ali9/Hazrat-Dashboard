@@ -4,7 +4,7 @@ import CustomRadarChart from '../components/charts/RadarChart';
 import CustomLineChart from '../components/charts/LineChart';
 import CustomBarChart from '../components/charts/BarChart';
 import { useDashboard } from '../contexts/DashboardContext';
-
+// analytics
 const Analytics: React.FC = () => {
   const { data, isLoading } = useDashboard();
 
