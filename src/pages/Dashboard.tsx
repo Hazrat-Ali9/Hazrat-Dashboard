@@ -7,7 +7,7 @@ import CustomPieChart from '../components/charts/PieChart';
 import CustomLineChart from '../components/charts/LineChart';
 import ProgressChart from '../components/charts/ProgressChart';
 import { useDashboard } from '../contexts/DashboardContext';
-
+// Dashboard
 const Dashboard: React.FC = () => {
   const { data, isLoading } = useDashboard();
 
