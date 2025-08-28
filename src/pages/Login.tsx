@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Link, useNavigate } from 'react-router-dom';
 import { Eye, EyeOff, BarChart3 } from 'lucide-react';
 import { useAuth } from '../contexts/AuthContext';
-
+// login tsx
 const Login: React.FC = () => {
   const [formData, setFormData] = useState({
     email: '',
