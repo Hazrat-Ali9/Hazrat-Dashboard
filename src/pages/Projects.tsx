@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Plus, Calendar, Users, Clock, CheckCircle, AlertCircle } from 'lucide-react';
-
+// Projects
 interface Project {
   id: string;
   name: string;
